@@ -74,3 +74,6 @@ A comprehensive student attendance and assignment tracking web application built
    ```bash
    git clone https://github.com/GrandDuchessPalak/attendance-app.git
    cd attendance-app
+2. **Install Dependencies**
+   ```bash
+   flutter pub get
